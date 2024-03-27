@@ -56,7 +56,7 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
 ## Medium
 
-For more information about push notifications and to read related articles, you can visit my [Medium] (https://medium.com/@erdalkama/local-push-notification-with-net-maui-ced207d06d87) profile.
+For more information about push notifications and to read related articles, you can visit my [Medium](https://medium.com/@erdalkama/local-push-notification-with-net-maui-ced207d06d87) profile.
 
 ## License
 
