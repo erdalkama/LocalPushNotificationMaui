@@ -54,6 +54,10 @@ Feel free to explore and modify the code to suit your needs or integrate more ad
 
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
+## Medium
+
+For more information about push notifications and to read related articles, you can visit my [Medium] (https://medium.com/@erdalkama/local-push-notification-with-net-maui-ced207d06d87) profile.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
