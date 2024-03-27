@@ -48,7 +48,7 @@ Feel free to explore and modify the code to suit your needs or integrate more ad
 ## Dependencies
 
 - [.NET MAUI](https://github.com/dotnet/maui)
-- [Plugin.LocalNotification](https://github.com/edsnider/Plugin.LocalNotification)
+- [Plugin.LocalNotification](https://www.nuget.org/packages/Plugin.LocalNotification)
 
 ## Contributing
 
